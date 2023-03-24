@@ -6,5 +6,5 @@ Example of a placed queen in N=6 size board: ![image](https://user-images.github
 Rearranged board visualization. Instead of attacking the same row and diagonally both ways the queen can attack the same column, row, and diagonal from top left to bottom right. This is done to simplify the use of two-dimensional array. ![image](https://user-images.githubusercontent.com/118682717/227611920-7358fcda-47c8-488f-a4e1-fc74642ecb14.png)
 
 Notes:
--Whole code is in a single file for simplicity sakes
--This algorithm is in need of optimization in order to run faster with larger numbers (since this algorithm has exponential time complexity)
+-Whole code is in a single file for simplicity sakes;
+-This algorithm is in need of optimization in order to run faster with larger numbers (since this algorithm has exponential time complexity).
