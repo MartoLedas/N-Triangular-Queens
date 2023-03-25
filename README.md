@@ -7,4 +7,5 @@ Rearranged board visualization. Instead of attacking the same row and diagonally
 
 Notes:<br>
 -Whole code is in a single file for simplicity sakes <br>
--This algorithm is in need of optimization in order to run faster with larger numbers (since this algorithm has exponential time complexity).<br>
+-This algorithm is in need of optimization in order to run faster with larger numbers (since this algorithm has exponential time complexity)<br>
+-Lack of comments<br>
